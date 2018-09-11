@@ -1,4 +1,4 @@
-### [➡️link to respository in github⬅️](https://github.com/AlicesWu/SoftwareEngineeringLab11)
+### [➡️link to respository in github⬅️](https://github.com/AlicesWu/SoftwareEngineeringLab11)
 
 
 # bash command
@@ -18,7 +18,7 @@ $ cd ~/11510212/selab11
 $ git init
 $ git remote add origin git@github.com:AlicesWu/SoftwareEngineeringLab11.git
 ```
-##### 3. Commit
+##### 3. Commit
 ```bash
 # master
 $ touch 1.c
