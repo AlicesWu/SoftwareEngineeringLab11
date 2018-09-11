@@ -1,0 +1,73 @@
+commit 5793b3592b4814b1f2f64644d1de267872be4523
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 22:19:22 2018 +0800
+
+    add 8.c to master
+
+commit bd012d293d428aa8fbdb9c187dab9b2d0a0bb954
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 17:49:13 2018 +0800
+
+    1.c was modified in branch2
+
+commit 9b5fdf12da12ce5ed87221f965c1d5468317da16
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 17:37:10 2018 +0800
+
+    add 7.c to branch2
+
+commit 90b859234b4073cdb01a88d446102c96fd65ba98
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 17:36:50 2018 +0800
+
+    add 6.c to branch2
+
+commit 3b0f22d144b214ba5b3b1d41855c988e7c6c56f2
+Merge: 0319449 0e22dc6
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 17:44:12 2018 +0800
+
+    Merge branch 'branch1'
+
+commit 0e22dc6bacd6cbbf88109dbfdb30f8afbfb5ce0b
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 17:41:59 2018 +0800
+
+    1.c was modified
+
+commit 0319449b42290d7c52a8891ef8c627ae88a4b9ae
+Merge: 245f6de 90d02ee
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 17:00:23 2018 +0800
+
+    Merge branch 'branch1'
+
+commit 245f6deca00c515bcfa9d6d9ed851064686d0afc
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 16:59:05 2018 +0800
+
+    add 5.c to master
+
+commit 90d02ee5631c698fc777f585942eebfd36b0828b
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 16:53:27 2018 +0800
+
+    add 4.c to branch1
+
+commit 99ad9bb32778fe0da6e15f062fc7a1e06b4a788c
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 16:07:00 2018 +0800
+
+    add 3.c to branch1
+
+commit 23b13a303c1e42ac9b41d406529d71e57b5ab839
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 16:03:00 2018 +0800
+
+    add 2.c
+
+commit c874dba6bf1176aab8c2544cdfe93f2313318aaa
+Author: AlicesWu <imadream@foxmail.com>
+Date:   Mon Jun 4 15:48:16 2018 +0800
+
+    add 1.c
